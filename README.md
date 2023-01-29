@@ -1,3 +1,4 @@
 # IceCreamCompositePattern
 This is a very simple POC of Composite Pattern. 
-![image](https://user-images.githubusercontent.com/9250062/215298936-3f5a02e3-0f5d-435b-93b9-ec2c5984e135.png)
+![image](https://user-images.githubusercontent.com/9250062/215299008-d781f4cb-4556-4003-8233-e5ee05ed838b.png)
+
